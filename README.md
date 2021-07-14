@@ -1,6 +1,7 @@
 # phpddos
 # phpddos-v1.0
-
+# Notes:
+I fixed this guy repo bug jesus so many fking bug man.
 1) First disabled log files from apache <br>
 
 find /etc/apache2/apache2.conf <br>
